@@ -15,7 +15,7 @@ class JenkinTestApplicationTests {
 	static org.slf4j.Logger  log = LoggerFactory.getLogger(JenkinTestApplicationTests.class);
 	@Test
 	void contextLoads() {
-	
+	System.out.println("hello");
 		assertEquals(true, true);
 	}
 
