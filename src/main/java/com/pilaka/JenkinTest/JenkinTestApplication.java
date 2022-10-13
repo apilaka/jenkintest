@@ -15,10 +15,11 @@ public class JenkinTestApplication {
 	
 	@PostConstruct
 	static void init() {
-		log.info("application started");
+		log.info("application started3333333333333333333333333333333);
 	}
 	public static void main(String[] args) {
-		log.info("application executed");	log.info("executing test class");
+		log.info("application executed1111111111111111111111111111");	
+		log.info("executing test class2222222222222222222222222222");
 		SpringApplication.run(JenkinTestApplication.class, args);
 		init();
 	}
