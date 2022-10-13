@@ -15,7 +15,7 @@ public class JenkinTestApplication {
 	
 	@PostConstruct
 	static void init() {
-		log.info("application started3333333333333333333333333333333);
+		log.info("application started3333333333333333333333333333333");
 	}
 	public static void main(String[] args) {
 		log.info("application executed1111111111111111111111111111");	
