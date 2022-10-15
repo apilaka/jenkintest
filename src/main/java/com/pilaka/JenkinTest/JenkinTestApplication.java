@@ -20,7 +20,8 @@ public class JenkinTestApplication {
 	public static void main(String[] args) {
 		log.info("executing test class9999999999");
 		log.info("executing test 101010");
-		
+		log.info("executing test class9999999999");
+		log.info("executing test 101010");
 		log.info("executing test 33333");
 		SpringApplication.run(JenkinTestApplication.class, args);
 		init();
