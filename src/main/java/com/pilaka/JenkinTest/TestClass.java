@@ -9,7 +9,7 @@ public class TestClass {
 		 String[] input=new String[3];
 		    String[] output=new String[3];
 		    Scanner in = new Scanner(System.in);
-		   // s="Hello World";
+		   // s="changed at 1021 Hello World";
 		    String s = in.nextLine();
 		    String [] sArray= s.split(" ");
 		    int len= sArray.length;
