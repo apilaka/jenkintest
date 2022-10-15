@@ -8,7 +8,7 @@ public class JenkinController {
 	
 	@GetMapping
 	public String sayHello() {
-		return "Indian Insitute of Technology";
+		return "Indian Insitute of Technology is world number 1";
 				
 	}
 
